@@ -1,19 +1,21 @@
-## Dodge
+## 🕹️ Dodge - Esquive et Survis !  
 <table>
   <tr>
     <td align="center">
-      <img src="images/play.png" alt="Game" style="width: 380px; height: 380px;">
+      <img src="images/play.png" alt="Game" style="width: 150px; height: 180px;">
     </td>
     <td align="center">
-      <img src="images/wait.png" alt="Mort" style="width: 380px; height: 380px;">
+      <img src="images/wait.png" alt="Mort" style="width: 150px; height: 180px;">
     </td>
   </tr>
 </table>
 
-## Descriptif
+## 🎮 Gameplay  
 
-Ton seul objectif est d'esquiver ! 💨
-Les ennemis t'encerclent et ta seule chance de survie est de te déplacer habilement pour éviter
-Survie le plus longtemps possible !
+🔹 **Esquive les ennemis** sans pouvoir attaquer  
+🔹 **Survis le plus longtemps possible** pour battre ton record  
+🔹 **Commande : WASD |  ⬅ ⬆ ⬇ ➡**
 
-[Jouer sur itch.io](https://magillie.itch.io/cell-slayer) *(le jeu est jouable sur un navigateur Chromium)* 
+## 🛠️ Développement  
+
+Ce jeu a été **développé sous Godot Engine**, un moteur de jeu open-source puissant et flexible.  
