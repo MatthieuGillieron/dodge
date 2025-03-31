@@ -1,0 +1,21 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1743445593
+Capture d’écran 2025-03-31 à 20.26.28.png::CompressedTexture2D::4576021567984135677::1743445593::1743445593::1::::<><><>0<>0<>76874f0bd2f17542fb1aaa544c5b5771<>res://.godot/imported/Capture d’écran 2025-03-31 à 20.26.28.png-7da9f193cef1e04be2da7d449c9ad8ce.ctex::
+icon.svg::CompressedTexture2D::2972014629691556691::1743445354::1743445524::1::::<><><>0<>0<>1a6c2108b3031883ffe3d4f26e94750e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1743445354::0::1::::<><><>0<>0<><>::
+::res://assets/::1743445524
+Prototype_Character.png::CompressedTexture2D::1154038498019243013::1743445354::1743445524::1::::<><><>0<>0<>5c4ec2efbf302c022591f8ed392588fa<>res://.godot/imported/Prototype_Character.png-29ed4198486b4c4b316823a1524ad267.ctex::
+Prototype_Character_Blue.png::CompressedTexture2D::7146128749692850992::1743445354::1743445524::1::::<><><>0<>0<>1dede62cd258ee0ef04498e0446b8108<>res://.godot/imported/Prototype_Character_Blue.png-44a95dec7a1bfca36efa082a95ade2ca.ctex::
+Prototype_Character_Red.png::CompressedTexture2D::6476697255658186762::1743445354::1743445524::1::::<><><>0<>0<>b779642bee79026d3a2cc19e2b82d8e1<>res://.godot/imported/Prototype_Character_Red.png-c7fcc4bad11a8fa7044f92c3b5cae1d9.ctex::
+::res://images/::1743445413
+::res://others/::1743445501
+::res://scenes/::1743445528
+ennemies.tscn::PackedScene::8291881475433141887::1743445354::0::1::::<><><>0<>0<><>::uid://bcdc03dw1u6kq::::res://ennemies.gd<>uid://c82vxxdcqivme::::res://assets/Prototype_Character_Blue.png<>uid://cyjmi0yqqu8v3::::res://assets/Prototype_Character_Red.png
+hud.tscn::PackedScene::6635031570799022724::1743445354::0::1::::<><><>0<>0<><>::uid://dcfx0tka83uv1::::res://hud.gd
+main.tscn::PackedScene::5734972723391522125::1743445528::0::1::::<><><>0<>0<><>::uid://dgu3sdcpqs8f7::::res://scripts/main.gd<>uid://dqewcumpkv38f::::res://scenes/ennemies.tscn<>uid://yl6hmymw8c8g::::res://scenes/player.tscn<>uid://c1scaaw3fulg3::::res://scenes/hud.tscn
+player.tscn::PackedScene::1709135797871962072::1743445354::0::1::::<><><>0<>0<><>::uid://qpa30l1jn06l::::res://assets/Prototype_Character.png<>uid://d5i6wato7awj::::res://player.gd
+::res://scripts/::1743445392
+ennemies.gd::GDScript::2533159059387864096::1743445354::0::1::::<>RigidBody2D<><>0<>0<><>::
+hud.gd::GDScript::7311403776243838244::1743445354::0::1::::<>CanvasLayer<><>0<>0<><>::
+main.gd::GDScript::7623415049439759934::1743445354::0::1::::<>Node<><>0<>0<><>::
+player.gd::GDScript::273040115486017333::1743445354::0::1::::<>Area2D<><>0<>0<><>::
